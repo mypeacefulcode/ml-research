@@ -11,3 +11,5 @@ Pre-trained model은 "monologg/koelectra-base-v3-discriminator" 을 사용하였
 학습시 발생하는 지표는 wandb에서 확인하였다.
 
 Notebook :
+https://github.com/mypeacefulcode/ml-research/blob/main/Natural%20language%20inference/training.ipynb
+
