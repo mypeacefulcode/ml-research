@@ -11,4 +11,4 @@ Pre-trained model은 Huggingface의 "monologg/koelectra-base-v3-discriminator" �
 학습시 발생하는 지표는 WandB에서 확인했습니다.
 
 Notebook :
-[Natural language inferenct](https://github.com/mypeacefulcode/ml-research/blob/main/Natural%20language%20inference/Natural_language_inference.ipynb)
+[Natural language inference](https://github.com/mypeacefulcode/ml-research/blob/main/Natural%20language%20inference/Natural_language_inference.ipynb)
