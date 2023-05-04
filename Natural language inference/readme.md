@@ -13,7 +13,7 @@ Pre-trained model은 Huggingface의 "monologg/koelectra-base-v3-discriminator" �
 Notebook :
 [Natural language inference](https://github.com/mypeacefulcode/ml-research/blob/main/Natural%20language%20inference/Natural_language_inference.ipynb)
 
-실험결과 Accuracy : 별도의 튜닝 과정없이 74% 정도의 성능을 보였습니다.  
+실험결과 별도의 튜닝 과정없이 accuracy가 74% 정도 나왔습니다.  
   
 차후 같은 NLI Task를 다룰 기회가 있다면 두개의 BERT 모델을 이용해 문장의 유사도 및 문장의 관계를 추론하는 Sentence Bert와 비교해보면 좋겠다는 생각을 했습니다.
 
